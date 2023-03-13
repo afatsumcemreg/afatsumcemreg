@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [the prediction of hotel cancellation](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset)
 
-- 👨‍💻 All of my projects are available at [https://mustafagermec.wordpress.com/data-science-projects/](https://mustafagermec.wordpress.com/data-science-projects/)
+- 👨‍💻 All of my projects are available in my [WordPress Page](https://mustafagermec.wordpress.com/data-science-projects/)
 
-- 📝 I regularly write articles on (Data) Science [https://medium.com/@afatsumcemreg](https://medium.com/@afatsumcemreg)
+- 📝 I regularly write articles on (Data) Science in my [Medium Page](https://medium.com/@afatsumcemreg)
 
 - 💬 Ask me about **Data Science, Machine Learning, SQL, Time Series, Natural Language Processing**
 
-- 📄 Know about my experiences [https://mustafagermec.wordpress.com/](https://mustafagermec.wordpress.com/)
+- 📄 Know about my experiences in my [WordPress Page](https://mustafagermec.wordpress.com/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
