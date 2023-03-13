@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afatsumcemreg" alt="afatsumcemreg" /></a> </p>
 
-- 🔭 I’m currently working on [Titanic Dataset](https://www.kaggle.com/code/mustafagerme/titanic-survived-prediction)
+- 🔭 I’m currently working on [the prediction of hotel cancellation](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset)
 
 - 👨‍💻 All of my projects are available at [https://mustafagermec.wordpress.com/data-science-projects/](https://mustafagermec.wordpress.com/data-science-projects/)
 
 - 📝 I regularly write articles on (Data) Science [https://medium.com/@afatsumcemreg](https://medium.com/@afatsumcemreg)
 
-- 💬 Ask me about **Data Science, Machine Learning, SQL, NLP**
+- 💬 Ask me about **Data Science, Machine Learning, SQL, Time Series, Natural Language Processing**
 
 - 📄 Know about my experiences [https://mustafagermec.wordpress.com/](https://mustafagermec.wordpress.com/)
 
